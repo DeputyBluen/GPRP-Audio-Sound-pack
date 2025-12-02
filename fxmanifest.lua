@@ -634,3 +634,8 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_cvpiv8'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/ecoboostv6_game.dat151.rel'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/ecoboostv6_sounds.dat54.rel'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_ecoboostv6'
+
+--LTChevy--
+data_file 'AUDIO_GAMEDATA' 'audioconfig/chevroletlt4_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/chevroletlt4_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_chevroletlt4'
