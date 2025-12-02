@@ -624,3 +624,8 @@ data_file 'AUDIO_WAVEPACK' 'sfx/dlc_z33u2'
 data_file 'AUDIO_GAMEDATA' 'audioconfig/npolchar_game.dat'
 data_file 'AUDIO_SOUNDDATA' 'audioconfig/npolchar_sounds.dat'
 data_file 'AUDIO_WAVEPACK' 'sfx/dlc_npolchar'
+
+--Crownvic V8--
+data_file 'AUDIO_GAMEDATA' 'audioconfig/cvpiv8_game.dat'
+data_file 'AUDIO_SOUNDDATA' 'audioconfig/cvpiv8_sounds.dat'
+data_file 'AUDIO_WAVEPACK' 'sfx/dlc_cvpiv8'
